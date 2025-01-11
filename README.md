@@ -4,7 +4,7 @@
 
 ---
 
-![RAG Chatbot Illustration](https://via.placeholder.com/800x400?text=RAG+Chatbot+Illustration)  
+![RAG Chatbot Illustration](https://github.com/RahulKB31/RAG_based_Chatbot/blob/main/RAG_Chatbot.jpg)
 *An illustration showcasing how the RAG-based chatbot works.*  
 
 ---
